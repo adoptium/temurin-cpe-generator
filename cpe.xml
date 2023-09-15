@@ -297,14 +297,14 @@
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:11.0.13:*:*:*:*:*:*:*"/>
   </cpe-item>
-  <cpe-item name="cpe:/a:eclipse:temurin:1">
+  <cpe-item name="cpe:/a:eclipse:temurin:11.0.12.1">
     <title xml:lang="en-US">Eclipse Temurin 11.0.12+7.1</title>
     <references>
       <reference href="https://github.com/adoptium/temurin11-binaries/releases/tag/jdk-11.0.12%2B7.1">artifacts</reference>
       <reference href="https://adoptium.net/temurin">website</reference>
       <reference href="https://eclipse.org">vendor</reference>
     </references>
-    <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:1:*:*:*:*:*:*:*"/>
+    <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:11.0.12.1:*:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:11.0.12">
     <title xml:lang="en-US">Eclipse Temurin 11.0.12+7</title>
