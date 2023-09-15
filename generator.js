@@ -65,7 +65,7 @@ function generateCPEDirectory(releases) {
             titleVersion = urlEncodedVersion.replace(/jdk/, '');
         } else if (release.split('+')[1].split('.').length > 1) {
             // detect an 11+ respin e.g 11.0.12+7.1 and convert to 11.0.12.1
-            version = release.split('+')[1].split('.')[1];
+            version = `${version}.${release.split('+')[1].split('.')[1]}`;
         }
         // if major version is something like jdk-20+36 we need to convert it to 20
         if (majorVersion.includes('+')) {
