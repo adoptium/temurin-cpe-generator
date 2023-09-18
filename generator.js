@@ -76,9 +76,9 @@ function generateCPEDirectory(releases) {
         item.ele('title', { 'xml:lang': 'en-US' }, `Eclipse Temurin ${titleVersion}`);
         
         const references = item.ele('references');
-        references.ele('reference', { href: `https://github.com/adoptium/temurin${majorVersion}-binaries/releases/tag/${urlEncodedVersion}` }, 'artifacts');
-        references.ele('reference', { href: 'https://adoptium.net/temurin' }, 'website');
-        references.ele('reference', { href: 'https://eclipse.org' }, 'vendor');
+        references.ele('reference', { href: `https://github.com/adoptium/temurin${majorVersion}-binaries/releases/tag/${urlEncodedVersion}` }, 'VERSION');
+        references.ele('reference', { href: 'https://adoptium.net/temurin' }, 'PRODUCT');
+        references.ele('reference', { href: 'https://eclipse.org' }, 'VENDOR');
         let string = `cpe:2.3:a:eclipse:temurin:${version}:*:*:*:*:*:*:*`
         if (version.includes(':')) {
             string = `cpe:2.3:a:eclipse:temurin:${version}:*:*:*:*:*:*`
