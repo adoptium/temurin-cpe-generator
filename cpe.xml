@@ -3,423 +3,423 @@
   <cpe-item name="cpe:/a:eclipse:temurin:20.0.2">
     <title xml:lang="en-US">Eclipse Temurin 20.0.2+9</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin20-binaries/releases/tag/jdk-20.0.2%2B9">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin20-binaries/releases/tag/jdk-20.0.2%2B9">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:20.0.2:*:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:20.0.1">
     <title xml:lang="en-US">Eclipse Temurin 20.0.1+9</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin20-binaries/releases/tag/jdk-20.0.1%2B9">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin20-binaries/releases/tag/jdk-20.0.1%2B9">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:20.0.1:*:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:20">
     <title xml:lang="en-US">Eclipse Temurin 20+36</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin20-binaries/releases/tag/jdk-20%2B36">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin20-binaries/releases/tag/jdk-20%2B36">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:20:*:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:19.0.2">
     <title xml:lang="en-US">Eclipse Temurin 19.0.2+7</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin19-binaries/releases/tag/jdk-19.0.2%2B7">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin19-binaries/releases/tag/jdk-19.0.2%2B7">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:19.0.2:*:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:19.0.1">
     <title xml:lang="en-US">Eclipse Temurin 19.0.1+10</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin19-binaries/releases/tag/jdk-19.0.1%2B10">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin19-binaries/releases/tag/jdk-19.0.1%2B10">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:19.0.1:*:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:19">
     <title xml:lang="en-US">Eclipse Temurin 19+36</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin19-binaries/releases/tag/jdk-19%2B36">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin19-binaries/releases/tag/jdk-19%2B36">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:19:*:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:18.0.2.1">
     <title xml:lang="en-US">Eclipse Temurin 18.0.2.1+1</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin18-binaries/releases/tag/jdk-18.0.2.1%2B1">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin18-binaries/releases/tag/jdk-18.0.2.1%2B1">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:18.0.2.1:*:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:18.0.2">
     <title xml:lang="en-US">Eclipse Temurin 18.0.2+9</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin18-binaries/releases/tag/jdk-18.0.2%2B9">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin18-binaries/releases/tag/jdk-18.0.2%2B9">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:18.0.2:*:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:18.0.1">
     <title xml:lang="en-US">Eclipse Temurin 18.0.1+10</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin18-binaries/releases/tag/jdk-18.0.1%2B10">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin18-binaries/releases/tag/jdk-18.0.1%2B10">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:18.0.1:*:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:18">
     <title xml:lang="en-US">Eclipse Temurin 18+36</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin18-binaries/releases/tag/jdk-18%2B36">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin18-binaries/releases/tag/jdk-18%2B36">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:18:*:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:17.0.8.1">
     <title xml:lang="en-US">Eclipse Temurin 17.0.8.1+1</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin17-binaries/releases/tag/jdk-17.0.8.1%2B1">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin17-binaries/releases/tag/jdk-17.0.8.1%2B1">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:17.0.8.1:*:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:17.0.8">
     <title xml:lang="en-US">Eclipse Temurin 17.0.8+7</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin17-binaries/releases/tag/jdk-17.0.8%2B7">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin17-binaries/releases/tag/jdk-17.0.8%2B7">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:17.0.8:*:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:17.0.7">
     <title xml:lang="en-US">Eclipse Temurin 17.0.7+7</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin17-binaries/releases/tag/jdk-17.0.7%2B7">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin17-binaries/releases/tag/jdk-17.0.7%2B7">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:17.0.7:*:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:17.0.6">
     <title xml:lang="en-US">Eclipse Temurin 17.0.6+10</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin17-binaries/releases/tag/jdk-17.0.6%2B10">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin17-binaries/releases/tag/jdk-17.0.6%2B10">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:17.0.6:*:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:17.0.5">
     <title xml:lang="en-US">Eclipse Temurin 17.0.5+8</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin17-binaries/releases/tag/jdk-17.0.5%2B8">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin17-binaries/releases/tag/jdk-17.0.5%2B8">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:17.0.5:*:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:17.0.4.1">
     <title xml:lang="en-US">Eclipse Temurin 17.0.4.1+1</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin17-binaries/releases/tag/jdk-17.0.4.1%2B1">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin17-binaries/releases/tag/jdk-17.0.4.1%2B1">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:17.0.4.1:*:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:17.0.4">
     <title xml:lang="en-US">Eclipse Temurin 17.0.4+8</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin17-binaries/releases/tag/jdk-17.0.4%2B8">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin17-binaries/releases/tag/jdk-17.0.4%2B8">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:17.0.4:*:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:17.0.3">
     <title xml:lang="en-US">Eclipse Temurin 17.0.3+7</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin17-binaries/releases/tag/jdk-17.0.3%2B7">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin17-binaries/releases/tag/jdk-17.0.3%2B7">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:17.0.3:*:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:17.0.2">
     <title xml:lang="en-US">Eclipse Temurin 17.0.2+8</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin17-binaries/releases/tag/jdk-17.0.2%2B8">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin17-binaries/releases/tag/jdk-17.0.2%2B8">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:17.0.2:*:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:17.0.1">
     <title xml:lang="en-US">Eclipse Temurin 17.0.1+12</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin17-binaries/releases/tag/jdk-17.0.1%2B12">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin17-binaries/releases/tag/jdk-17.0.1%2B12">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:17.0.1:*:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:17">
     <title xml:lang="en-US">Eclipse Temurin 17+35</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin17-binaries/releases/tag/jdk-17%2B35">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin17-binaries/releases/tag/jdk-17%2B35">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:17:*:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:16.0.2">
     <title xml:lang="en-US">Eclipse Temurin 16.0.2+7</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin16-binaries/releases/tag/jdk-16.0.2%2B7">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin16-binaries/releases/tag/jdk-16.0.2%2B7">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:16.0.2:*:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:11.0.20.1">
     <title xml:lang="en-US">Eclipse Temurin 11.0.20.1+1</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin11-binaries/releases/tag/jdk-11.0.20.1%2B1">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin11-binaries/releases/tag/jdk-11.0.20.1%2B1">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:11.0.20.1:*:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:11.0.20">
     <title xml:lang="en-US">Eclipse Temurin 11.0.20+8</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin11-binaries/releases/tag/jdk-11.0.20%2B8">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin11-binaries/releases/tag/jdk-11.0.20%2B8">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:11.0.20:*:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:11.0.19">
     <title xml:lang="en-US">Eclipse Temurin 11.0.19+7</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin11-binaries/releases/tag/jdk-11.0.19%2B7">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin11-binaries/releases/tag/jdk-11.0.19%2B7">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:11.0.19:*:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:11.0.18">
     <title xml:lang="en-US">Eclipse Temurin 11.0.18+10</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin11-binaries/releases/tag/jdk-11.0.18%2B10">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin11-binaries/releases/tag/jdk-11.0.18%2B10">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:11.0.18:*:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:11.0.17">
     <title xml:lang="en-US">Eclipse Temurin 11.0.17+8</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin11-binaries/releases/tag/jdk-11.0.17%2B8">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin11-binaries/releases/tag/jdk-11.0.17%2B8">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:11.0.17:*:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:11.0.16.1">
     <title xml:lang="en-US">Eclipse Temurin 11.0.16.1+1</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin11-binaries/releases/tag/jdk-11.0.16.1%2B1">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin11-binaries/releases/tag/jdk-11.0.16.1%2B1">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:11.0.16.1:*:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:11.0.16">
     <title xml:lang="en-US">Eclipse Temurin 11.0.16+8</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin11-binaries/releases/tag/jdk-11.0.16%2B8">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin11-binaries/releases/tag/jdk-11.0.16%2B8">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:11.0.16:*:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:11.0.15">
     <title xml:lang="en-US">Eclipse Temurin 11.0.15+10</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin11-binaries/releases/tag/jdk-11.0.15%2B10">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin11-binaries/releases/tag/jdk-11.0.15%2B10">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:11.0.15:*:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:11.0.14.1">
     <title xml:lang="en-US">Eclipse Temurin 11.0.14.1+1</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin11-binaries/releases/tag/jdk-11.0.14.1%2B1">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin11-binaries/releases/tag/jdk-11.0.14.1%2B1">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:11.0.14.1:*:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:11.0.14">
     <title xml:lang="en-US">Eclipse Temurin 11.0.14+9</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin11-binaries/releases/tag/jdk-11.0.14%2B9">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin11-binaries/releases/tag/jdk-11.0.14%2B9">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:11.0.14:*:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:11.0.13">
     <title xml:lang="en-US">Eclipse Temurin 11.0.13+8</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin11-binaries/releases/tag/jdk-11.0.13%2B8">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin11-binaries/releases/tag/jdk-11.0.13%2B8">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:11.0.13:*:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:11.0.12.1">
     <title xml:lang="en-US">Eclipse Temurin 11.0.12+7.1</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin11-binaries/releases/tag/jdk-11.0.12%2B7.1">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin11-binaries/releases/tag/jdk-11.0.12%2B7.1">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:11.0.12.1:*:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:11.0.12">
     <title xml:lang="en-US">Eclipse Temurin 11.0.12+7</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin11-binaries/releases/tag/jdk-11.0.12%2B7">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin11-binaries/releases/tag/jdk-11.0.12%2B7">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:11.0.12:*:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:1.8.0:update_382">
     <title xml:lang="en-US">Eclipse Temurin 8u382-b05</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin8-binaries/releases/tag/jdk8u382-b05">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin8-binaries/releases/tag/jdk8u382-b05">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:1.8.0:update_382:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:1.8.0:update_372">
     <title xml:lang="en-US">Eclipse Temurin 8u372-b07</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin8-binaries/releases/tag/jdk8u372-b07">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin8-binaries/releases/tag/jdk8u372-b07">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:1.8.0:update_372:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:1.8.0:update_362">
     <title xml:lang="en-US">Eclipse Temurin 8u362-b09</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin8-binaries/releases/tag/jdk8u362-b09">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin8-binaries/releases/tag/jdk8u362-b09">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:1.8.0:update_362:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:1.8.0:update_352">
     <title xml:lang="en-US">Eclipse Temurin 8u352-b08</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin8-binaries/releases/tag/jdk8u352-b08">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin8-binaries/releases/tag/jdk8u352-b08">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:1.8.0:update_352:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:1.8.0:update_345">
     <title xml:lang="en-US">Eclipse Temurin 8u345-b01</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin8-binaries/releases/tag/jdk8u345-b01">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin8-binaries/releases/tag/jdk8u345-b01">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:1.8.0:update_345:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:1.8.0:update_342.1">
     <title xml:lang="en-US">Eclipse Temurin 8u342-b07.1</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin8-binaries/releases/tag/jdk8u342-b07.1">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin8-binaries/releases/tag/jdk8u342-b07.1">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:1.8.0:update_342.1:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:1.8.0:update_342">
     <title xml:lang="en-US">Eclipse Temurin 8u342-b07</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin8-binaries/releases/tag/jdk8u342-b07">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin8-binaries/releases/tag/jdk8u342-b07">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:1.8.0:update_342:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:1.8.0:update_332">
     <title xml:lang="en-US">Eclipse Temurin 8u332-b09</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin8-binaries/releases/tag/jdk8u332-b09">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin8-binaries/releases/tag/jdk8u332-b09">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:1.8.0:update_332:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:1.8.0:update_322">
     <title xml:lang="en-US">Eclipse Temurin 8u322-b06</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin8-binaries/releases/tag/jdk8u322-b06">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin8-binaries/releases/tag/jdk8u322-b06">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:1.8.0:update_322:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:1.8.0:update_312">
     <title xml:lang="en-US">Eclipse Temurin 8u312-b07</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin8-binaries/releases/tag/jdk8u312-b07">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin8-binaries/releases/tag/jdk8u312-b07">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:1.8.0:update_312:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:1.8.0:update_302.1">
     <title xml:lang="en-US">Eclipse Temurin 8u302-b08.1</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin8-binaries/releases/tag/jdk8u302-b08.1">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin8-binaries/releases/tag/jdk8u302-b08.1">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:1.8.0:update_302.1:*:*:*:*:*:*"/>
   </cpe-item>
   <cpe-item name="cpe:/a:eclipse:temurin:1.8.0:update_302">
     <title xml:lang="en-US">Eclipse Temurin 8u302-b08</title>
     <references>
-      <reference href="https://github.com/adoptium/temurin8-binaries/releases/tag/jdk8u302-b08">artifacts</reference>
-      <reference href="https://adoptium.net/temurin">website</reference>
-      <reference href="https://eclipse.org">vendor</reference>
+      <reference href="https://github.com/adoptium/temurin8-binaries/releases/tag/jdk8u302-b08">VERSION</reference>
+      <reference href="https://adoptium.net/temurin">PRODUCT</reference>
+      <reference href="https://eclipse.org">VENDOR</reference>
     </references>
     <cpe-23:cpe23-item name="cpe:2.3:a:eclipse:temurin:1.8.0:update_302:*:*:*:*:*:*"/>
   </cpe-item>
